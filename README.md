@@ -104,30 +104,3 @@
 ## 🐍 Fun Fact  
 
 > *"Code is like humor. When you have to explain it, it's bad."*  
-> — Opellius Matias
-## 📜 Certifications  
-
-- IBM Certified in Web Development (2023)  
-- IBM Certified in Python and DB Basics (2023)  
-- IBM Certified in Ethical Hacking (2021)  
-
----
-
-## 🤝 Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sankar0mer)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/sankar0mer)  
-
----
-
-## 📊 GitHub Stats  
-
-![Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankar0mer&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankar0mer&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sankar0mer&theme=radical)  
-
----
-
-## 🐍 Fun Fact  
-
-> *"Code is like humor. When you have to explain it, it's bad."*  
